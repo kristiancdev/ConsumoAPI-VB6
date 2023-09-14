@@ -21,7 +21,7 @@ Asegúrate de tener los siguientes requisitos previos instalados antes de contin
 
 ## Consumo de la API
 
-En este proyecto de ejemplo, se utiliza [Dog API](https://dog.ceo/api/breeds/image/random) para obtener datos. Puedes reemplazar la URL de la API y los parámetros según tus necesidades.
+En este proyecto de ejemplo, se utiliza [Dog API](https://dog.ceo/) para obtener datos. Puedes reemplazar la URL de la API y los parámetros según tus necesidades.
 
 ```vb
 Private Sub btnConsumirAPI_Click()
